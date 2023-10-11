@@ -1,0 +1,112 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  text-decoration: none;
+}
+
+body {
+  font-family: "Poppins", Arial, sans-serif;
+  padding: 0 30%;
+  background: url(/assets/images/Hero.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+/* nav start */
+.navbar {
+  display: flex;
+  background: linear-gradient(90deg, #8c52ff, #5ce1e6);
+  border-radius: 0 0 2rem 2rem;
+  color: white;
+  max-height: 30%;
+  padding: 1rem 7%;
+  position: relative;
+}
+.navbar span,
+i {
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.navbar .navbar-left,
+.navbar-right {
+  padding-bottom: 4rem;
+}
+.navbar .navbar-right img {
+  width: 2rem;
+}
+/* nav end */
+/* serach start */
+.search {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: aliceblue;
+  margin-top: -3.5rem;
+}
+
+.search input {
+  width: 70%;
+  padding: 10px 2rem;
+  border: none;
+  border-radius: 1rem;
+}
+/* search end */
+/* content start */
+.content {
+  display: flex;
+  flex-direction: column;
+  margin-top: 0.5rem;
+  min-height: 555px;
+  max-height: 555px;
+  overflow-y: auto;
+}
+.content ul {
+  list-style: none;
+  margin: 1rem 5rem 0 3rem;
+}
+.content ul li {
+  color: black;
+  font-size: 14px;
+  box-shadow: 0px 0px 10px #888888;
+  margin-top: 1rem;
+  padding: 10px 1rem;
+  border-radius: 1rem;
+}
+.content ul li span {
+  font-size: 1rem;
+  font-weight: 500;
+  text-transform: capitalize;
+}
+.content ul li img {
+  width: 5%;
+}
+/* content end */
+/* footer start */
+.footer {
+  display: flex;
+  background: linear-gradient(90deg, #8c52ff, #5ce1e6);
+  border-radius: 2rem 2rem 0 0;
+  color: white;
+  padding: 1rem 2%;
+  margin-top: auto;
+  justify-content: center;
+  text-align: center;
+}
+.footer p {
+  padding: 0 1rem;
+}
+
+/* footer end */

@@ -1,0 +1,1754 @@
+[
+  {
+    "ina": "abu-abu",
+    "uk": "grey",
+    "us": "gray",
+    "uk_sp": " /ɡreɪ/ ",
+    "us_sp": "/ɡreɪ/"
+  },
+  {
+    "ina": "agar-agar",
+    "uk": "jelly",
+    "us": "jello",
+    "uk_sp": "/ˈdʒel.i/",
+    "us_sp": "/ˈdʒel·oʊ/"
+  },
+  {
+    "ina": "anjungan tunai mandiri (ATM)",
+    "uk": "cashpoint",
+    "us": "atm",
+    "uk_sp": "/ˈkæʃ.pɔɪnt/",
+    "us_sp": "/ˌeɪ.tiːˈem"
+  },
+  {
+    "ina": "antena",
+    "uk": "aerial",
+    "us": "antenna",
+    "uk_sp": "/ˈeə.ri.əl/",
+    "us_sp": "/ænˈten.ə/"
+  },
+  {
+    "ina": "antrian",
+    "uk": "queue",
+    "us": "line",
+    "uk_sp": "/kjuː/",
+    "us_sp": "/laɪn/"
+  },
+  {
+    "ina": "alat makan",
+    "uk": "cutlery",
+    "us": "silverware",
+    "uk_sp": "/ˈkʌt.lər.i/",
+    "us_sp": "/ˈsɪl.və.weər/"
+  },
+  {
+    "ina": "apartemen",
+    "uk": "flat",
+    "us": "apartment",
+    "uk_sp": "/flæt/",
+    "us_sp": "/əˈpɑːrt.mənt/"
+  },
+  {
+    "ina": "bagasi mobil",
+    "uk": "boot",
+    "us": "trunk",
+    "uk_sp": "/buːt/",
+    "us_sp": "/trʌŋk/"
+  },
+  {
+    "ina": "bahan bakar",
+    "uk": "petrol",
+    "us": "gas",
+    "uk_sp": "/ˈpet.rəl/",
+    "us_sp": "/ɡæs/"
+  },
+  {
+    "ina": "baju renang",
+    "uk": "swimming costume",
+    "us": "bathing Suit",
+    "uk_sp": "/ˈswɪm.ɪŋ ˌkɒs.tjuːm/",
+    "us_sp": "/ˈbeɪ.ðɪŋ ˌsuːt/"
+  },
+  {
+    "ina": "baju switer",
+    "uk": "jumper",
+    "us": "sweater",
+    "uk_sp": "ˈdʒʌm.pər/",
+    "us_sp": "/ˈswet̬.ɚ/"
+  },
+  {
+    "ina": "baju tidur",
+    "uk": "pyjamas",
+    "us": "pajamas",
+    "uk_sp": "/pɪˈdʒɑː.məz/",
+    "us_sp": "/pəˈdʒɑː.məz/"
+  },
+  {
+    "ina": "bak sampah",
+    "uk": "dustbin",
+    "us": "garbage",
+    "uk_sp": "/ˈdʌst.bɪn/",
+    "us_sp": "/ˈɡɑːr.bɪdʒ/"
+  },
+  {
+    "ina": "ban",
+    "uk": "tyre",
+    "us": "tire",
+    "uk_sp": "/taɪər/",
+    "us_sp": "/taɪr/"
+  },
+  {
+    "ina": "baseball",
+    "uk": "rounders",
+    "us": "baseball",
+    "uk_sp": "/ˈraʊn.dəz/",
+    "us_sp": "/ˈbeɪs.bɑːl/"
+  },
+  {
+    "ina": "bau busuk",
+    "uk": "odour",
+    "us": "odor",
+    "uk_sp": "/ˈəʊ.dər/",
+    "us_sp": "/ˈoʊ.dɚ/"
+  },
+  {
+    "ina": "baju kodok",
+    "uk": "dungarees",
+    "us": "overalls",
+    "uk_sp": "/ˌdʌŋ.ɡəˈriːz/",
+    "us_sp": "/ˈoʊ.vɚ.ɑːlz/"
+  },
+  {
+    "ina": "berbicara sendiri",
+    "uk": "monologue",
+    "us": "monolog",
+    "uk_sp": "/ˈmɒn.əl.ɒɡ/",
+    "us_sp": "/ˈmɑː.nə.lɑːɡ/"
+  },
+  {
+    "ina": "berlawanan arah jarum jam",
+    "uk": "anticlockwise",
+    "us": "counterclockwise",
+    "uk_sp": "/ˌæn·tiˈklɒk·waɪz/",
+    "us_sp": "/ˌkɑʊn·t̬ərˈklɑkˌwɪz/"
+  },
+  {
+    "ina": "bernilai mahal",
+    "uk": "dear",
+    "us": "expensive",
+    "uk_sp": "/dɪər/",
+    "us_sp": "/ɪkˈspen.sɪv/"
+  },
+  {
+    "ina": "bioskop",
+    "uk": "theatre",
+    "us": "theater",
+    "uk_sp": "/ˈθɪə.tər/",
+    "us_sp": "/ˈθiː.ə.t̬ɚ"
+  },
+  {
+    "ina": "bundaran lalu lintas",
+    "uk": "roundabout",
+    "us": "traffic circle",
+    "uk_sp": "/ˈraʊnd.ə.baʊt/",
+    "us_sp": "/ˈtræf.ɪk ˌsɝː.kəl/"
+  },
+  {
+    "ina": "cek",
+    "uk": "cheque",
+    "us": "check",
+    "uk_sp": "/tʃek/",
+    "us_sp": "/tʃek/"
+  },
+  {
+    "ina": "celana ketat",
+    "uk": "tights",
+    "us": "pantyhose",
+    "uk_sp": "/taɪts/",
+    "us_sp": "/ˈpæn.t̬i.hoʊz/"
+  },
+  {
+    "ina": "celana panjang",
+    "uk": "trousers",
+    "us": "pants",
+    "uk_sp": "/ˈtraʊ.zər/",
+    "us_sp": "/pænts/"
+  },
+  {
+    "ina": "cetakan/mencetak",
+    "uk": "mould",
+    "us": "mold",
+    "uk_sp": "/məʊld/",
+    "us_sp": "/moʊld/"
+  },
+  {
+    "ina": "celana dalam pendek",
+    "uk": "underpants",
+    "us": "shortpant",
+    "uk_sp": "/ˈʌn.də.pænts/",
+    "us_sp": "/ʃɔːrt//pænts/"
+  },
+  {
+    "ina": "daging babi",
+    "uk": "gammon",
+    "us": "ham",
+    "uk_sp": "/ˈɡæm.ən/",
+    "us_sp": " /hæm/"
+  },
+  {
+    "ina": "daging cincang",
+    "uk": "mince",
+    "us": "patty",
+    "uk_sp": " /mɪns/",
+    "us_sp": " /ˈpæt̬.i/"
+  },
+  {
+    "ina": "desas-desus/kabar angin",
+    "uk": "rumour",
+    "us": "rumor",
+    "uk_sp": "/ˈruː.mər/",
+    "us_sp": "/ˈruː.mər/"
+  },
+  {
+    "ina": "diare",
+    "uk": "diarrhoea",
+    "us": "diarrhea",
+    "uk_sp": "/ˌdaɪ.əˈriː.ə/",
+    "us_sp": "/ˌdaɪ.əˈriː.ə/"
+  },
+  {
+    "ina": "dompet kecil",
+    "uk": "purse",
+    "us": "change purse",
+    "uk_sp": "/pɜːs/",
+    "us_sp": "/ˈtʃeɪndʒ ˌpɝːs/"
+  },
+  {
+    "ina": "dot",
+    "uk": "dummy",
+    "us": "pacifier",
+    "uk_sp": "/ˈdʌm.i/",
+    "us_sp": "/ˈpæs.ə.faɪ.ɚ/"
+  },
+  {
+    "ina": "draf",
+    "uk": "draught",
+    "us": "draft",
+    "uk_sp": "/drɑːft/",
+    "us_sp": " /dræft/"
+  },
+  {
+    "ina": "ensiklopedi",
+    "uk": "encyclopaedia",
+    "us": "encyclopedia",
+    "uk_sp": "/ɪnˌsaɪ.kləˈpiː.di.ə/",
+    "us_sp": "/ɪnˌsaɪ.kləˈpiː.di.ə/"
+  },
+  {
+    "ina": "es krim bertangkai",
+    "uk": "ice lolly",
+    "us": "popsicle",
+    "uk_sp": "/ˌaɪs ˈlɒl.i/",
+    "us_sp": "/ˈpɑːp.sɪ.kəl/"
+  },
+  {
+    "ina": "favorit",
+    "uk": "favourite",
+    "us": "favorite",
+    "uk_sp": "/ˈfeɪ.vər.ɪt/",
+    "us_sp": "/ˈfeɪ.vər.ət/"
+  },
+  {
+    "ina": "film",
+    "uk": "film",
+    "us": "movie",
+    "uk_sp": "/fɪlm/",
+    "us_sp": "/ˈmuː.vi/"
+  },
+  {
+    "ina": "gadis",
+    "uk": "lass",
+    "us": "girl",
+    "uk_sp": "/læs/",
+    "us_sp": "/ɡɝːl/"
+  },
+  {
+    "ina": "gelandangan",
+    "uk": "tramp",
+    "us": "hobo",
+    "uk_sp": "/træmp/",
+    "us_sp": "/ˈhoʊ.boʊ/"
+  },
+  {
+    "ina": "generator",
+    "uk": "dynamo",
+    "us": "generator",
+    "uk_sp": "/ˈdaɪ.nə.məʊ/",
+    "us_sp": " /ˈdʒen.ər.eɪ.t̬ɚ/"
+  },
+  {
+    "ina": "gorden",
+    "uk": "curtains",
+    "us": "sheers",
+    "uk_sp": "/ˈkɜː.tən/",
+    "us_sp": "/ʃɪr/"
+  },
+  {
+    "ina": "hubungan",
+    "uk": "connexion",
+    "us": "connection",
+    "uk_sp": "/kəˈnek.ʃən/",
+    "us_sp": "/kəˈnek.ʃən/"
+  },
+
+  {
+    "ina": "hormon estrogen",
+    "uk": "oestrogen",
+    "us": "estrogen",
+    "uk_sp": "/ˈiː.strə.dʒən/",
+    "us_sp": "/ˈes.trə.dʒən/"
+  },
+  {
+    "ina": "huruf z",
+    "uk": "zed",
+    "us": "zee",
+    "uk_sp": "/zed/",
+    "us_sp": "/ziː/"
+  },
+  {
+    "ina": "ibu",
+    "uk": "mummy",
+    "us": "mommy",
+    "uk_sp": "/ˈmʌm.i/",
+    "us_sp": "/ˈmɑː.mi/"
+  },
+  {
+    "ina": "indikator",
+    "uk": "indicator",
+    "us": "blinker",
+    "uk_sp": " /ˈɪn.dɪ.keɪ.tər/",
+    "us_sp": "/ˈblɪŋ.kɚ/"
+  },
+  {
+    "ina": "interval",
+    "uk": "interval",
+    "us": "intermission",
+    "uk_sp": " /ˈɪn.tə.vəl/",
+    "us_sp": "/ˌɪn.t̬ɚˈmɪʃ.ən/"
+  },
+  {
+    "ina": "inventaris",
+    "uk": "stock",
+    "us": "inventory",
+    "uk_sp": "/stɒk/",
+    "us_sp": "/stɑːk/"
+  },
+  {
+    "ina": "jadwal",
+    "uk": "timetable",
+    "us": "schedule",
+    "uk_sp": "/ˈtaɪmˌteɪ.bəl/",
+    "us_sp": "/ˈskedʒ.uːl/"
+  },
+  {
+    "ina": "jagung",
+    "uk": "maize",
+    "us": "corn",
+    "uk_sp": "/meɪz/",
+    "us_sp": "/kɔːrn/"
+  },
+  {
+    "ina": "jalan layang",
+    "uk": "flyover",
+    "us": "overpass",
+    "uk_sp": "/ˈflaɪˌəʊ.vər/",
+    "us_sp": "/ˈoʊ.vɚ.pæs/"
+  },
+  {
+    "ina": "jalan raya",
+    "uk": "motorway",
+    "us": "highway",
+    "uk_sp": "/ˈməʊ.tə.weɪ/",
+    "us_sp": "/ˈhaɪ.weɪ/"
+  },
+  {
+    "ina": "jalan utama",
+    "uk": "high street",
+    "us": "main street",
+    "uk_sp": "/ˈhaɪ ˌstriːt/",
+    "us_sp": "/ˌmeɪn ˈstriːt/"
+  },
+  {
+    "ina": "jalur memutar",
+    "uk": "diversion",
+    "us": "detour",
+    "uk_sp": "/daɪˈvɜː.ʃən/",
+    "us_sp": " /ˈdiː.tʊr/"
+  },
+  {
+    "ina": "janin",
+    "uk": "foetus",
+    "us": "fetus",
+    "uk_sp": " /ˈfiː.təs/ ",
+    "us_sp": "/ˈfiː.t̬əs/"
+  },
+  {
+    "ina": "jas hujan",
+    "uk": "mac",
+    "us": "raincoat",
+    "uk_sp": "/mæk/",
+    "us_sp": "/ˈreɪŋ.koʊt/"
+  },
+  {
+    "ina": "jepitan jemuran",
+    "uk": "clothes peg",
+    "us": "clothespin",
+    "uk_sp": "/ˈkləʊðz ˌpeɡ/",
+    "us_sp": "/ˈkləʊðz.pɪn/"
+  },
+  {
+    "ina": "jepit rambut",
+    "uk": "hair slide",
+    "us": "barrette",
+    "uk_sp": "/ˈheə ˌslaɪd/",
+    "us_sp": "/bəˈret/"
+  },
+  {
+    "ina": "kacamata",
+    "uk": "spectacles",
+    "us": "glasses",
+    "uk_sp": "/ˈspek.tə.kəlz/",
+    "us_sp": "/ˈɡlæs.ɪz/"
+  },
+  {
+    "ina": "kacang buncis",
+    "uk": "green beans",
+    "us": "string beans",
+    "uk_sp": "/ɡriːn biːnz/",
+    "us_sp": "/strɪŋ biːnz/"
+  },
+  {
+    "ina": "kain flannel",
+    "uk": "flannel",
+    "us": "washcloth",
+    "uk_sp": "/ˈflæn.əl/",
+    "us_sp": "/ˈwɑːʃ.klɑːθ/"
+  },
+  {
+    "ina": "kamar/ruang tamu",
+    "uk": "parlour",
+    "us": "parlor",
+    "uk_sp": "/ˈpɑː.lər/",
+    "us_sp": "/ˈpɑːr.lɚ/"
+  },
+  {
+    "ina": "kaleng",
+    "uk": "tin",
+    "us": "can",
+    "uk_sp": "/tɪn/",
+    "us_sp": "/kən/"
+  },
+  {
+    "ina": "kaos dalam/singlet",
+    "uk": "vest",
+    "us": "undershirt",
+    "uk_sp": "/vest/",
+    "us_sp": "/ˈʌn.dɚ.ʃɝːt/"
+  },
+  {
+    "ina": "kap mobil",
+    "uk": "bonnet",
+    "us": "hood",
+    "uk_sp": "/ˈbɒn.ɪt/",
+    "us_sp": "/hʊd/"
+  },
+  {
+    "ina": "kap mesin",
+    "uk": "bonnet",
+    "us": "hood",
+    "uk_sp": "/ˈbɒn.ɪt/",
+    "us_sp": " /hʊd/"
+  },
+  {
+    "ina": "katalog",
+    "uk": "catalogue",
+    "us": "catalog",
+    "uk_sp": "/ˈkæt.əl.ɒɡ/",
+    "us_sp": "/ˈkæt.əl.ɒɡ/"
+  },
+  {
+    "ina": "kayu manis",
+    "uk": "liquorice",
+    "us": "licorice",
+    "uk_sp": "/ˈlɪc.ər.ɪs/",
+    "us_sp": "/ˈlɪc.ɚ.ɪs/"
+  },
+  {
+    "ina": "kecelakaan",
+    "uk": "crash",
+    "us": "wreck",
+    "uk_sp": "/kræʃ/",
+    "us_sp": " /rek/"
+  },
+  {
+    "ina": "kekhususan",
+    "uk": "speciality",
+    "us": "specialty",
+    "uk_sp": "/ˌspeʃ.iˈæl.ə.ti/",
+    "us_sp": "/ˈspeʃ.əl.ti/"
+  },
+  {
+    "ina": "kelakuan/tingkah laku",
+    "uk": "behaviour",
+    "us": "behavior",
+    "uk_sp": "/bɪˈheɪ.vjər/",
+    "us_sp": "/bɪˈheɪ.vjər/"
+  },
+  {
+    "ina": "kendi",
+    "uk": "jug",
+    "us": "pitcher",
+    "uk_sp": "/dʒʌɡ/",
+    "us_sp": "/ˈpɪtʃ.ɚ/"
+  },
+  {
+    "ina": "kentang bakar",
+    "uk": "jacket potato",
+    "us": "baked potato",
+    "uk_sp": "/ˌdʒæk.ɪt pəˈteɪ.təʊ/",
+    "us_sp": "/ˌbeɪkt pəˈteɪ.t̬oʊ/"
+  },
+  {
+    "ina": "kentang goreng",
+    "uk": "chips",
+    "us": "french fries",
+    "uk_sp": "/tʃɪp/",
+    "us_sp": "/ˈfrentʃ ˈfrɑɪz/"
+  },
+  {
+    "ina": "kepala sekolah",
+    "uk": "headmaster",
+    "us": "principal",
+    "uk_sp": "/ˌhedˈmɑː.stər/",
+    "us_sp": "/ˈprɪn.sə.pəl/"
+  },
+  {
+    "ina": "keran air",
+    "uk": "tap",
+    "us": "faucet",
+    "uk_sp": "/taep/",
+    "us_sp": "/ˈfɑː.sət/"
+  },
+  {
+    "ina": "kereta api bawah tanah",
+    "uk": "underground",
+    "us": "subway",
+    "uk_sp": "/ˌʌn.dəˈɡraʊnd/",
+    "us_sp": "/ˈsʌb.weɪ/"
+  },
+  {
+    "ina": "kereta bayi",
+    "uk": "pushchair",
+    "us": "stroller",
+    "uk_sp": "/ˈpʊʃ.tʃeər/",
+    "us_sp": "/ˈstroʊ.lɚ/"
+  },
+  {
+    "ina": "kereta gandeng",
+    "uk": "articulated lorry",
+    "us": "tractor",
+    "uk_sp": "/ɑːˈtɪk.jə.leɪ.tɪd/_/ˈlɒr.i/",
+    "us_sp": "/ˈtræk.tɚ/"
+  },
+  {
+    "ina": "keripik kentang",
+    "uk": "crisp",
+    "us": "potato chip",
+    "uk_sp": "/krɪsp/",
+    "us_sp": "/pəˈteɪ.t̬oʊ ˌtʃɪp/"
+  },
+  {
+    "ina": "kilometer (KM)",
+    "uk": "kilometre",
+    "us": "kilometer",
+    "uk_sp": "/ˈkɪl.əˌmiː.tər/",
+    "us_sp": "kɪˈlɑː.mə.t̬ɚ/"
+  },
+  {
+    "ina": "kipas kaca pada mobil",
+    "uk": "windscreen",
+    "us": "windshield",
+    "uk_sp": " /ˈwɪnd.skriːn/",
+    "us_sp": "/ˈwɪnd.ʃiːld/"
+  },
+  {
+    "ina": "kode pos",
+    "uk": "postal code",
+    "us": "zip code",
+    "uk_sp": "/pəʊst/ /kəʊd/",
+    "us_sp": "/ˈzɪp ˌkoʊd/"
+  },
+  {
+    "ina": "kompor",
+    "uk": "cooker",
+    "us": "stove",
+    "uk_sp": "/ˈkʊk.ər/",
+    "us_sp": "/stoʊv/"
+  },
+  {
+    "ina": "kotak pendingin tempat es",
+    "uk": "cool box",
+    "us": "cooler",
+    "uk_sp": "/ˈkuːl ˌbɒks/",
+    "us_sp": "/ˈkuː.lɚ/"
+  },
+  {
+    "ina": "kotak surat",
+    "uk": "post",
+    "us": "mail",
+    "uk_sp": "/pəʊst/",
+    "us_sp": "/meɪl/"
+  },
+  {
+    "ina": "kue biskuit",
+    "uk": "biscuit",
+    "us": "cookie",
+    "uk_sp": "/ˈbɪs.kɪt/",
+    "us_sp": "/ˈkʊk.i/"
+  },
+  {
+    "ina": "kumis",
+    "uk": "moustache",
+    "us": "mustache",
+    "uk_sp": "/məˈstɑːʃ/",
+    "us_sp": "/ˈmʌs.tæʃ/"
+  },
+  {
+    "ina": "kunci (kunci inggris)",
+    "uk": "spanner",
+    "us": "wrench",
+    "uk_sp": "/ˈspæn.ər/",
+    "us_sp": "/rentʃ/"
+  },
+  {
+    "ina": "kurus",
+    "uk": "meagre",
+    "us": "meager",
+    "uk_sp": "/ˈmiː.ɡər/",
+    "us_sp": "/ˈmiː.ɡər/"
+  },
+  {
+    "ina": "konselor",
+    "uk": "counsellor",
+    "us": "counselor",
+    "uk_sp": " /ˈkaʊn.səl.ər/",
+    "us_sp": "/ˈkaʊn.səl.ər/"
+  },
+  {
+    "ina": "kue panekuk",
+    "uk": "pancake",
+    "us": "crepe",
+    "uk_sp": " /ˈpæn.keɪk/",
+    "us_sp": "/krep/"
+  },
+  {
+    "ina": "kumbang kecil",
+    "uk": "ladybird",
+    "us": "ladybug",
+    "uk_sp": " /ˈleɪ.di.bɜːd/",
+    "us_sp": "/ˈleɪ.di.bʌɡ/"
+  },
+
+  {
+    "ina": "kurang darag",
+    "uk": "anaemia",
+    "us": "anemia",
+    "uk_sp": " /əˈniː.mi.ə/",
+    "us_sp": "/əˈniː.mi.ə/"
+  },
+  {
+    "ina": "lampu sein kendaraan",
+    "uk": "indicator",
+    "us": "blinker",
+    "uk_sp": "/ˈɪn.dɪ.keɪ.tər/",
+    "us_sp": "/ˈblɪŋ.kɚ/"
+  },
+  {
+    "ina": "lampu",
+    "uk": "torch",
+    "us": "flashlight",
+    "uk_sp": "/tɔːtʃ/",
+    "us_sp": "/ˈflæʃ.laɪt/"
+  },
+  {
+    "ina": "lantai kedua",
+    "uk": "first floor",
+    "us": "second floor",
+    "uk_sp": "/ˌfɜːst ˈflɔːr/",
+    "us_sp": "/sek.ənd ˈflɔːr/"
+  },
+  {
+    "ina": "lantai paling bawah",
+    "uk": "ground floor",
+    "us": "first floor",
+    "uk_sp": "/ˌɡraʊnd ˈflɔːr/",
+    "us_sp": "/ˌfɝːst ˈflɔːr/"
+  },
+  {
+    "ina": "lapangan",
+    "uk": "pitch",
+    "us": "field",
+    "uk_sp": "/pɪtʃ/",
+    "us_sp": "/fiːld/"
+  },
+  {
+    "ina": "lapar",
+    "uk": "peckish",
+    "us": "hungry",
+    "uk_sp": "/ˈpek.ɪʃ/",
+    "us_sp": "/ˈhʌŋ.ɡri/"
+  },
+  {
+    "ina": "latihan",
+    "uk": "practice",
+    "us": "practise",
+    "uk_sp": "/ˈpræk.tɪs/",
+    "us_sp": "/ˈpræk.tɪs/"
+  },
+  {
+    "ina": "lawak/candaan",
+    "uk": "humour",
+    "us": "humor",
+    "uk_sp": "/ˈhjuː.mər/",
+    "us_sp": "/ˈhjuː.mɚ/"
+  },
+  {
+    "ina": "lem",
+    "uk": "glue",
+    "us": "gum",
+    "uk_sp": "/ɡluː/",
+    "us_sp": "/ɡʌm/"
+  },
+  {
+    "ina": "lemari (rias)",
+    "uk": "chect of drawers",
+    "us": "dresser",
+    "uk_sp": "/ˌtʃest əv ˌdrɔːz/",
+    "us_sp": "/ˈdres.ɚ/"
+  },
+  {
+    "ina": "lemari pakaian",
+    "uk": "wardrobe",
+    "us": "closet",
+    "uk_sp": "/ˈwɔː.drəʊb/",
+    "us_sp": "/ˈklɑː.zət/"
+  },
+  {
+    "ina": "liburan",
+    "uk": "holiday",
+    "us": "vacation",
+    "uk_sp": "/ˈhɒl.ə.deɪ/",
+    "us_sp": "/veɪˈkeɪ.ʃən/"
+  },
+  {
+    "ina": "lift",
+    "uk": "lift",
+    "us": "elevator",
+    "uk_sp": "/lɪft/",
+    "us_sp": "/ˈel.ə.veɪ.t̬ɚ/"
+  },
+  {
+    "ina": "liter (L)",
+    "uk": "litre",
+    "us": "liter",
+    "uk_sp": "/ˈliː.tər/",
+    "us_sp": "/ˈliː.t̬ɚ/"
+  },
+  {
+    "ina": "lisensi",
+    "uk": "licence",
+    "us": "license",
+    "uk_sp": "/ˈlaɪ.səns/",
+    "us_sp": "/ˈlaɪ.səns/"
+  },
+  {
+    "ina": "lulusan",
+    "uk": "graduate",
+    "us": "alumnus",
+    "uk_sp": "/ˈɡrædʒ.u.ət/",
+    "us_sp": " /əˈlʌm.nəs/"
+  },
+  {
+    "ina": "makanan pembuka",
+    "uk": "appetizer",
+    "us": "starter",
+    "uk_sp": "/ˈæp·ɪˌtaɪ·zər/",
+    "us_sp": "/ˈstɑr·t̬ər/"
+  },
+  {
+    "ina": "makelar barang",
+    "uk": "estate agent",
+    "us": "realtor",
+    "uk_sp": "Estate agent",
+    "us_sp": "/ˈriː.əl.tɔːr/"
+  },
+  {
+    "ina": "manisan",
+    "uk": "candyfloss",
+    "us": "cotton candy",
+    "uk_sp": " /ˈkæn.di.flɒs/",
+    "us_sp": "/ˌkɑː.t̬ən ˈkæn.di/"
+  },
+  {
+    "ina": "marah",
+    "uk": "mad",
+    "us": "angry",
+    "uk_sp": " /mæd/",
+    "us_sp": " /ˈæŋ.ɡri/"
+  },
+  {
+    "ina": "matematika",
+    "uk": "maths",
+    "us": "mathematics",
+    "uk_sp": "/mæθs/",
+    "us_sp": "/ˌmæθˈmæt̬.ɪks/"
+  },
+  {
+    "ina": "melanjutkan",
+    "uk": "hand luggage",
+    "us": "carry-on",
+    "uk_sp": "/ˈhænd ˌlʌɡ.ɪdʒ/",
+    "us_sp": "/ˈker.i/"
+  },
+  {
+    "ina": "melumpuhkan",
+    "uk": "paralyse",
+    "us": "paralyze",
+    "uk_sp": "/ˈpær.əl.aɪz/",
+    "us_sp": "/ˈper.əl.aɪz/"
+  },
+  {
+    "ina": "memanggang",
+    "uk": "grill",
+    "us": "broil",
+    "uk_sp": "/ɡrɪl/",
+    "us_sp": "/brɔɪl/"
+  },
+  {
+    "ina": "meminta maaf",
+    "uk": "apologise",
+    "us": "apologize",
+    "uk_sp": "/əˈpɒl·ə·dʒaɪz/",
+    "us_sp": "/əˈpɑ·ləˌdʒɑɪz/"
+  },
+  {
+    "ina": "melampirkan",
+    "uk": "enclose",
+    "us": "inclose",
+    "uk_sp": "/ɪnˈkləʊz/",
+    "us_sp": "/ɪnˈkloʊz/"
+  },
+  {
+    "ina": "membara",
+    "uk": "smoulder",
+    "us": "smolder",
+    "uk_sp": " /ˈsməʊl.dər/",
+    "us_sp": " /ˈsmoʊl.dɚ/"
+  },
+  {
+    "ina": "membentuk",
+    "uk": "mould",
+    "us": "mold",
+    "uk_sp": "/məʊld/",
+    "us_sp": "/moʊld/"
+  },
+  {
+    "ina": "menakjubkan",
+    "uk": "marvellous",
+    "us": "marvelous",
+    "uk_sp": "/ˈmɑː.vəl.əs/",
+    "us_sp": "/ˈmɑːr.vəl.əs/"
+  },
+  {
+    "ina": "mengintip",
+    "uk": "peep",
+    "us": "peek",
+    "uk_sp": " /piːp/",
+    "us_sp": "/piːk/"
+  },
+  {
+    "ina": "mengkrtitik",
+    "uk": "criticise",
+    "us": "criticize",
+    "uk_sp": "/ˈkrɪt.ɪ.saɪz/",
+    "us_sp": "criticise"
+  },
+  {
+    "ina": "menjijikan",
+    "uk": "nasty",
+    "us": "vicious",
+    "uk_sp": "/ˈnɑː.sti/",
+    "us_sp": "/ˈvɪʃ.əs/"
+  },
+  {
+    "ina": "mengakui",
+    "uk": "recognise",
+    "us": "recognize",
+    "uk_sp": "/ˈrek.əɡ.naɪz/",
+    "us_sp": "/ˈrek.əɡ.naɪz/"
+  },
+  {
+    "ina": "menganalisa",
+    "uk": "analyse",
+    "us": "analize",
+    "uk_sp": "/ˈæn·ə·laɪz/",
+    "us_sp": "/ˈæn.əl.aɪz/"
+  },
+  {
+    "ina": "menghapal",
+    "uk": "memorise",
+    "us": "memorize",
+    "uk_sp": "/ˈmem.ə.raɪz/",
+    "us_sp": "/ˈmem.ə.raɪz/"
+  },
+  {
+    "ina": "mesin",
+    "uk": "engine",
+    "us": "motor",
+    "uk_sp": " /ˈen.dʒɪn/",
+    "us_sp": "/ˈmoʊ.t̬ɚ/"
+  },
+  {
+    "ina": "meter",
+    "uk": "metre",
+    "us": "meter",
+    "uk_sp": "/ˈmiː.tər/",
+    "us_sp": "/ˈmiː.t̬ɚ/"
+  },
+  {
+    "ina": "menyadari",
+    "uk": "realise",
+    "us": "realize",
+    "uk_sp": "/ˈrɪə.laɪz/",
+    "us_sp": "/ˈriː.ə.laɪz/"
+  },
+  {
+    "ina": "menyenangkan/nyaman",
+    "uk": "cosy",
+    "us": "cozy",
+    "uk_sp": "/ˈkəʊ.zi/",
+    "us_sp": "/ˈkoʊ.zi/"
+  },
+  {
+    "ina": "minuman soda",
+    "uk": "soda",
+    "us": "soft drink",
+    "uk_sp": "/ˈsəʊ.də/",
+    "us_sp": " /ˌsɑːft ˈdrɪŋk/"
+  },
+  {
+    "ina": "minyak tanah",
+    "uk": "paraffin",
+    "us": "kerosene",
+    "uk_sp": "/ˈpær.ə.fɪn/",
+    "us_sp": "/ˈker.ə.siːn/"
+  },
+  {
+    "ina": "mobil keluarga",
+    "uk": "estate car",
+    "us": "station wagon",
+    "uk_sp": "/ɪˈsteɪt/  /kɑːr/",
+    "us_sp": "/ˈsteɪ.ʃən ˌwæɡ.ən/"
+  },
+  {
+    "ina": "mobil truk",
+    "uk": "lorry",
+    "us": "truck",
+    "uk_sp": "/ˈlɒr.i/",
+    "us_sp": "/trʌk/"
+  },
+  {
+    "ina": "mobil pemadam kebakaran",
+    "uk": "fire engine",
+    "us": "fire truck",
+    "uk_sp": " /ˈfaɪər ˌen.dʒɪn/",
+    "us_sp": " /ˈfaɪr ˌtrʌk/"
+  },
+  {
+    "ina": "musim gugur",
+    "uk": "autumn",
+    "us": "fall",
+    "uk_sp": "/ˈɔː.təm/",
+    "us_sp": "/fɑːl/"
+  },
+  {
+    "ina": "nada suara",
+    "uk": "inflexion",
+    "us": "inflection",
+    "uk_sp": " /ɪnˈflek.ʃən/",
+    "us_sp": "ɪnˈflek.ʃən/"
+  },
+  {
+    "ina": "nampan kue",
+    "uk": "baking tray",
+    "us": "cookie sheet",
+    "uk_sp": "/ˈbeɪ.kɪŋ ˌtreɪ/",
+    "us_sp": "/ˈkʊk.i/_/ʃiːt/"
+  },
+  {
+    "ina": "nilai",
+    "uk": "mark",
+    "us": "grade",
+    "uk_sp": "/mɑːk/",
+    "us_sp": "/ɡreɪd/"
+  },
+  {
+    "ina": "nol",
+    "uk": "nought",
+    "us": "zero",
+    "uk_sp": "/nɔːt/",
+    "us_sp": "/ˈzɪr.oʊ/"
+  },
+  {
+    "ina": "pakaian makan malam",
+    "uk": "dinner jacket",
+    "us": "tuxedo",
+    "uk_sp": "/ˈdɪn.ə ˌdʒæk.ɪt/",
+    "us_sp": "/tʌkˈsiː.doʊ/"
+  },
+  {
+    "ina": "paket",
+    "uk": "parcel",
+    "us": "package",
+    "uk_sp": "/ˈpɑː.səl/",
+    "us_sp": "/ˈpæk.ɪdʒ/"
+  },
+  {
+    "ina": "pedal gas",
+    "uk": "accelerator",
+    "us": "gas pedal",
+    "uk_sp": "/əkˈsel.ə.reɪ.tər/",
+    "us_sp": "/ˈɡæs ˌped.əl/"
+  },
+  {
+    "ina": "pelabuhan",
+    "uk": "harbour",
+    "us": "harbor",
+    "uk_sp": "/ˈhɑː.bər/",
+    "us_sp": "/ˈhɑːr.bɚ/"
+  },
+  {
+    "ina": "pelanggaran",
+    "uk": "offence",
+    "us": "offense",
+    "uk_sp": "/əˈfens/",
+    "us_sp": "/əˈfens/"
+  },
+  {
+    "ina": "pelit",
+    "uk": "mean",
+    "us": "stingy",
+    "uk_sp": "/miːn/",
+    "us_sp": "/ˈstɪn.dʒi/"
+  },
+  {
+    "ina": "pemeriksaan",
+    "uk": "enquiry",
+    "us": "inquiry",
+    "uk_sp": "/ɪnˈkwaɪə.ri/",
+    "us_sp": "/ˈɪŋ.kwɚ.i/"
+  },
+  {
+    "ina": "pengacara",
+    "uk": "barristers",
+    "us": "lawyer",
+    "uk_sp": "/ˈbær.ɪ.stər",
+    "us_sp": " /ˈlɑː.jɚ/"
+  },
+  {
+    "ina": "pengurus makam",
+    "uk": "undertaker",
+    "us": "mortician",
+    "uk_sp": "/ˈʌn.dəˌteɪ.kər/",
+    "us_sp": "/mɔːrˈtɪʃ.ən/"
+  },
+  {
+    "ina": "penjaga",
+    "uk": "caretaker",
+    "us": "janitor",
+    "uk_sp": "/ˈkeəˌteɪ.kər/",
+    "us_sp": "/ˈdʒæn.ə.t̬ɚ/"
+  },
+  {
+    "ina": "peredam bunyi",
+    "uk": "silencer",
+    "us": "muffler",
+    "uk_sp": " /ˈsaɪ.lən.sər/",
+    "us_sp": "/ˈmʌf.lɚ/"
+  },
+  {
+    "ina": "permainan",
+    "uk": "match",
+    "us": "game",
+    "uk_sp": "/mætʃ/",
+    "us_sp": " /ɡeɪm/"
+  },
+  {
+    "ina": "pembalut luka",
+    "uk": "plaster",
+    "us": "baind-aid",
+    "uk_sp": "/ˈplɑː.stər/",
+    "us_sp": "/ˈbænd.eɪd/"
+  },
+  {
+    "ina": "pemukul permainan tenis meja (bet)",
+    "uk": "bat",
+    "us": "paddle",
+    "uk_sp": "/bæt/",
+    "us_sp": "/ˈpæd.əl/"
+  },
+  {
+    "ina": "penangkaran anjing",
+    "uk": "kennel",
+    "us": "doghouse",
+    "uk_sp": "/ˈken.əl/",
+    "us_sp": "/ˈdɑːɡ.haʊs/"
+  },
+  {
+    "ina": "pengalihan jalan/putar balik jalan",
+    "uk": "diversion",
+    "us": "detour",
+    "uk_sp": "/daɪˈvɜː.ʃən/",
+    "us_sp": "/ˈdiː.tʊr/"
+  },
+  {
+    "ina": "penghapus",
+    "uk": "rubber",
+    "us": "eraser",
+    "uk_sp": "/ˈrʌb.ər/",
+    "us_sp": "/ɪˈreɪ.sɚ/"
+  },
+  {
+    "ina": "percakapan dua orang",
+    "uk": "dialogue",
+    "us": "dialog",
+    "uk_sp": "/ˈdaɪ.ə.lɒɡ/",
+    "us_sp": "/ˈdaɪ.ə.lɑːɡ /"
+  },
+  {
+    "ina": "perempatan",
+    "uk": "crossroad",
+    "us": "intersection",
+    "uk_sp": "/ˈkrɒs.rəʊd/",
+    "us_sp": "/ˌɪn.t̬ɚˈsek.ʃən/"
+  },
+  {
+    "ina": "permainan Silang-Bulat-Silang",
+    "uk": "noughts and crosses",
+    "us": "tic-tac-toe",
+    "uk_sp": "/ˌnɔːts ən ˈkrɒs.ɪz/",
+    "us_sp": "/ˌtɪk.tækˈtoʊ/"
+  },
+  {
+    "ina": "permen",
+    "uk": "sweet",
+    "us": "candy",
+    "uk_sp": "/swiːt/",
+    "us_sp": "/ˈkæn.di/"
+  },
+  {
+    "ina": "pertahanan",
+    "uk": "defence",
+    "us": "defense",
+    "uk_sp": "/dɪˈfens/",
+    "us_sp": "/dɪˈfens/"
+  },
+  {
+    "ina": "pesan makanan dibungkus",
+    "uk": "takeaway",
+    "us": "takeout",
+    "uk_sp": "/ˈteɪk.ə.weɪ/",
+    "us_sp": "/ˈteɪk.aʊt/"
+  },
+  {
+    "ina": "pesawat terbang",
+    "uk": "aeroplane",
+    "us": "airplane",
+    "uk_sp": "/ˈeə·rə·pleɪn/",
+    "us_sp": "/ˈeərˌpleɪn/"
+  },
+  {
+    "ina": "plat nomor",
+    "uk": "number plate",
+    "us": "license plate",
+    "uk_sp": "/ˈnʌm.bə ˌpleɪt/",
+    "us_sp": "/ˈlaɪ.səns ˌpleɪt/"
+  },
+  {
+    "ina": "pondok",
+    "uk": "cot",
+    "us": "crib",
+    "uk_sp": "/kɒt/",
+    "us_sp": "/krɪb/"
+  },
+  {
+    "ina": "poni",
+    "uk": "fringe",
+    "us": "bangs",
+    "uk_sp": "/frɪndʒ/",
+    "us_sp": "/bæŋz/"
+  },
+  {
+    "ina": "popok",
+    "uk": "nappy",
+    "us": "diaper",
+    "uk_sp": "/ˈnæp.i/",
+    "us_sp": "/ˈdaɪ.pɚ/"
+  },
+  {
+    "ina": "program",
+    "uk": "programme",
+    "us": "program",
+    "uk_sp": "/ˈprəʊ.ɡræm/",
+    "us_sp": "/ˈproʊ.ɡræm/"
+  },
+  {
+    "ina": "puding",
+    "uk": "custard",
+    "us": "pudding",
+    "uk_sp": "kʌs.təd",
+    "us_sp": "/ˈpʊd.ɪŋ/"
+  },
+  {
+    "ina": "pusat kota",
+    "uk": "city centre",
+    "us": "downtown",
+    "uk_sp": "/ˌsɪt.i ˈsen.tər/",
+    "us_sp": "/ˌdaʊnˈtaʊn/"
+  },
+  {
+    "ina": "rangsel",
+    "uk": "rucksack",
+    "us": "backpack",
+    "uk_sp": " /ˈrʌk.sæk/",
+    "us_sp": "/ˈbæk.pæk/"
+  },
+  {
+    "ina": "rel kereta",
+    "uk": "railway",
+    "us": "railroad",
+    "uk_sp": "/ˈreɪl.weɪ/",
+    "us_sp": "/ˈreɪl.roʊd/"
+  },
+  {
+    "ina": "resepsionis",
+    "uk": "reception",
+    "us": "front desk",
+    "uk_sp": "/rɪˈsep.ʃən/",
+    "us_sp": "/frʌnt/ /desk/"
+  },
+  {
+    "ina": "resleting",
+    "uk": "zip",
+    "us": "zipper",
+    "uk_sp": "/zɪp/",
+    "us_sp": "/ˈzɪp.ɚ/"
+  },
+  {
+    "ina": "riwayat hidup",
+    "uk": "curriculum vitae (CV)",
+    "us": "resume",
+    "uk_sp": "/kəˌrɪk.jə.ləm ˈviː.taɪ/",
+    "us_sp": " /rɪˈzuːm/"
+  },
+  {
+    "ina": "rompi",
+    "uk": "waistcoat",
+    "us": "vest",
+    "uk_sp": "/ˈweɪs.kəʊt/",
+    "us_sp": "/vest/"
+  },
+  {
+    "ina": "ruang penitipan",
+    "uk": "cloakroom",
+    "us": "checkroom",
+    "uk_sp": "/ˈkləʊk.ruːm/",
+    "us_sp": " /ˈtʃek.ruːm/"
+  },
+  {
+    "ina": "ruang tamu",
+    "uk": "sitting room",
+    "us": "living room",
+    "uk_sp": "/ˈsɪt.ɪŋ ˌruːm/",
+    "us_sp": "/ˈlɪv.ɪŋ ˌruːm/"
+  },
+  {
+    "ina": "saham",
+    "uk": "share",
+    "us": "stock",
+    "uk_sp": " /ʃeər/",
+    "us_sp": "/stɑːk/"
+  },
+  {
+    "ina": "sakit",
+    "uk": "ill",
+    "us": "sick",
+    "uk_sp": "/ɪl/",
+    "us_sp": " /sɪk/"
+  },
+  {
+    "ina": "sampah",
+    "uk": "rubbish",
+    "us": "garbage",
+    "uk_sp": " /ˈrʌb.ɪʃ/",
+    "us_sp": " /ˈɡɑːr.bɪdʒ/"
+  },
+  {
+    "ina": "sekolah dasar",
+    "uk": "junior school",
+    "us": "elementary school",
+    "uk_sp": "/ˈdʒuː.ni.ə ˌskuːl/",
+    "us_sp": "/el.ɪˈmen.t̬ɚ.i ˌskuːl/"
+  },
+  {
+    "ina": "sekolah negeri",
+    "uk": "private school",
+    "us": "public school",
+    "uk_sp": "/ˌpraɪ.vət ˈskuːl/ ",
+    "us_sp": "/ˌpʌb.lɪ ˈskuːl/"
+  },
+  {
+    "ina": "sekolah swasta",
+    "uk": "public school",
+    "us": "private school",
+    "uk_sp": "/ˌpʌb.lɪ ˈskuːl/",
+    "us_sp": "/praɪ.vət ˈskuːl/"
+  },
+  {
+    "ina": "selai",
+    "uk": "jam",
+    "us": "jelly",
+    "uk_sp": "/dʒæm/",
+    "us_sp": "/ˈdʒel.i/"
+  },
+  {
+    "ina": "selimut",
+    "uk": "duvet",
+    "us": "comforter",
+    "uk_sp": "/ˈduː.veɪ/",
+    "us_sp": "/ˈkʌm.fə.t̬ɚ/"
+  },
+  {
+    "ina": "selotip",
+    "uk": "sellotape",
+    "us": "scotch tape",
+    "uk_sp": "/ˈsel.ə.teɪp/",
+    "us_sp": "/ˌskɑːtʃ ˈteɪp/"
+  },
+  {
+    "ina": "sepakbola",
+    "uk": "football",
+    "us": "soccer",
+    "uk_sp": "/ˈfʊt.bɔːl/",
+    "us_sp": "/ˈsɑː.kɚ/"
+  },
+  {
+    "ina": "sepatu gym",
+    "uk": "plimsolls",
+    "us": "gym Shoe",
+    "uk_sp": "/ˈplɪm.səl/",
+    "us_sp": "/ˈdʒɪm ˌʃuː/"
+  },
+  {
+    "ina": "sepatu sporty",
+    "uk": "trainers",
+    "us": "sneakers",
+    "uk_sp": "/ˈtreɪ.nər/",
+    "us_sp": "/ˈsniː.kɚ/"
+  },
+  {
+    "ina": "sepeda motor",
+    "uk": "motobike",
+    "us": "motorcycle",
+    "uk_sp": "/ˈməʊ.tə.baɪk/",
+    "us_sp": "/ˈmoʊ.t̬ɚˌsaɪ.kəl/"
+  },
+  {
+    "ina": "serabut/serat",
+    "uk": "fibre",
+    "us": "fiber",
+    "uk_sp": "/ˈfaɪ.bər/",
+    "us_sp": "/ˈfaɪ.bɚ/"
+  },
+  {
+    "ina": "seragam",
+    "uk": "kit",
+    "us": "uniform",
+    "uk_sp": "/kɪt/",
+    "us_sp": "/ˈjuː.nə.fɔːrm/"
+  },
+  {
+    "ina": "serbet/lap tangan dari kertas",
+    "uk": "serviette",
+    "us": "napkin",
+    "uk_sp": "(/ˌsɜː.viˈet",
+    "us_sp": "/ˈnæp.kɪn/"
+  },
+  {
+    "ina": "serbet/lap tangan",
+    "uk": "tea towel",
+    "us": "dishtowel",
+    "uk_sp": "/ˈtiː ˌtaʊəl/",
+    "us_sp": "/ˈdɪʃ.taʊəl/"
+  },
+  {
+    "ina": "sirup gula",
+    "uk": "treacle",
+    "us": "molasses",
+    "uk_sp": "/ˈtriː.kəl/",
+    "us_sp": "/məˈlæs.ɪz/"
+  },
+  {
+    "ina": "skor seimbang",
+    "uk": "draw",
+    "us": "tie",
+    "uk_sp": "/drɔː/",
+    "us_sp": "/taɪ/"
+  },
+  {
+    "ina": "SPBU",
+    "uk": "petrol station",
+    "us": "gas station",
+    "uk_sp": "/ˈpet.rəl ˌsteɪ.ʃən/",
+    "us_sp": "/ˈpet.rəl ˌsteɪ.ʃən/"
+  },
+  {
+    "ina": "spatbor",
+    "uk": "wing",
+    "us": "fender",
+    "uk_sp": "/wɪŋ/",
+    "us_sp": "/ˈfen.dɚ/"
+  },
+  {
+    "ina": "sofa",
+    "uk": "sofa",
+    "us": "couch",
+    "uk_sp": "/ˈsəʊ.fə/",
+    "us_sp": "/kaʊtʃ/"
+  },
+  {
+    "ina": "suku asli amerika (Indian)",
+    "uk": "american Indian",
+    "us": "native American",
+    "uk_sp": "/əˌmer.ɪ.kən ˈɪn.di.ən/",
+    "us_sp": "/ˌneɪ.t̬ɪv əˈmer.ɪ.kən/"
+  },
+  {
+    "ina": "tagihan (di restoran)",
+    "uk": "bill",
+    "us": "check",
+    "uk_sp": "/bɪl/",
+    "us_sp": "/tʃek/"
+  },
+  {
+    "ina": "tali selempang (baju+celana)",
+    "uk": "brace",
+    "us": "suspender",
+    "uk_sp": "/breɪs/",
+    "us_sp": "/səˈspen.dɚ/"
+  },
+  {
+    "ina": "taman",
+    "uk": "garden",
+    "us": "yard",
+    "uk_sp": "/ˈɡɑː.dən/",
+    "us_sp": "/jɑːrd/"
+  },
+  {
+    "ina": "tanggal kadaluarsa",
+    "uk": "expiry date",
+    "us": "expiration date",
+    "uk_sp": "/ɪkˈspaɪə.ri/ /deɪt",
+    "us_sp": "/ˌek·spəˈreɪ·ʃən ˌdeɪt/"
+  },
+  {
+    "ina": "tarif dasar",
+    "uk": "base rate",
+    "us": "prime rate",
+    "uk_sp": "/ˈbeɪs ˌreɪt/",
+    "us_sp": "/praɪm//reɪt/"
+  },
+  {
+    "ina": "tas kecil",
+    "uk": "handbag",
+    "us": "purse",
+    "uk_sp": "/ˈhænd.bæɡ/",
+    "us_sp": "/pɝːs/"
+  },
+  {
+    "ina": "taxi",
+    "uk": "taxi",
+    "us": "cab",
+    "uk_sp": "/ˈtæk.si/",
+    "us_sp": "/kæb/"
+  },
+  {
+    "ina": "tayangan ulang",
+    "uk": "action replay",
+    "us": "instant replay",
+    "uk_sp": "/ˈæk·ʃən/_/rɪˈplaɪ/",
+    "us_sp": "/ˈɪn·stənt/_/rɪˈplaɪ/"
+  },
+  {
+    "ina": "telepon genggam",
+    "uk": "moblie phone",
+    "us": "cell phone",
+    "uk_sp": "/ˌməʊ.baɪl ˈfəʊn",
+    "us_sp": "/ˈsel foʊn/"
+  },
+  {
+    "ina": "telepon umum",
+    "uk": "phone box",
+    "us": "phone booth",
+    "uk_sp": "/ˈfəʊn ˌbɒks/",
+    "us_sp": "/ˈfoʊn ˌbuːθ/"
+  },
+  {
+    "ina": "televisi",
+    "uk": "telly",
+    "us": "tv",
+    "uk_sp": "/ˈtel.i/",
+    "us_sp": "/ˌtiːˈviː/"
+  },
+  {
+    "ina": "teman",
+    "uk": "mate",
+    "us": "friend",
+    "uk_sp": "/meɪt/",
+    "us_sp": "/frend/"
+  },
+  {
+    "ina": "tempat berjalan",
+    "uk": "zebra crossing",
+    "us": "crosswalk",
+    "uk_sp": "/ˌzeb.rə ˌkrɒs.ɪŋ/",
+    "us_sp": "/ˈkrɑːs.wɑːk/"
+  },
+  {
+    "ina": "tempat berteduh",
+    "uk": "arbour",
+    "us": "arbor",
+    "uk_sp": "/ˈɑː.bər/",
+    "us_sp": "/ˈɑː.bər/"
+  },
+  {
+    "ina": "tempat membayar tagihan",
+    "uk": "cashier",
+    "us": "teller",
+    "uk_sp": "/kæʃˈɪər/",
+    "us_sp": "/ˈtel.ɚ/"
+  },
+  {
+    "ina": "tempat parkir",
+    "uk": "car park",
+    "us": "arking lot",
+    "uk_sp": "/ˈkɑː ˌpɑːk/",
+    "us_sp": "/ˈpɑːr.kɪŋ ˌlɑːt/"
+  },
+  {
+    "ina": "tenaga kerja",
+    "uk": "labour",
+    "us": "labor",
+    "uk_sp": "/ˈleɪ.bər/",
+    "us_sp": "/ˈleɪ.bɚ/"
+  },
+  {
+    "ina": "tempat minuman (bar)",
+    "uk": "pub",
+    "us": "bar",
+    "uk_sp": "/pʌb",
+    "us_sp": "/bɑːr/"
+  },
+  {
+    "ina": "tepi jalan",
+    "uk": "kerb",
+    "us": "curb",
+    "uk_sp": "/kɜːb/",
+    "us_sp": "/kɝːb/"
+  },
+  {
+    "ina": "termos",
+    "uk": "vacuum flask",
+    "us": "thermos",
+    "uk_sp": "/ˈvæk.juːm ˌflɑːsk/",
+    "us_sp": "/ˈθɜː.məs/"
+  },
+  {
+    "ina": "terong",
+    "uk": "aubergine",
+    "us": "eggplant",
+    "uk_sp": "/ˈəʊ.bə.ʒiːn/",
+    "us_sp": "/ˈeɡ.plænt/"
+  },
+  {
+    "ina": "terpikat",
+    "uk": "enamoured",
+    "us": "enamored",
+    "uk_sp": "/ɪˈnæm.əd/",
+    "us_sp": "/ɪˈnæm.əd/"
+  },
+  {
+    "ina": "tetangga",
+    "uk": "neighbour",
+    "us": "neighbor",
+    "uk_sp": "/ˈneɪ.bər/",
+    "us_sp": "/ˈneɪ.bɚ/"
+  },
+  {
+    "ina": "timun jepang",
+    "uk": "courgette",
+    "us": "zucchini",
+    "uk_sp": "/kɔːˈʒet/",
+    "us_sp": "/zuːˈkiː.ni/"
+  },
+  {
+    "ina": "titik",
+    "uk": "full stop",
+    "us": "period",
+    "uk_sp": "/ˌfʊl ˈstɒp/",
+    "us_sp": "/ˈpɪr.i.əd/"
+  },
+  {
+    "ina": "traktor bajak",
+    "uk": "plough",
+    "us": "plow",
+    "uk_sp": "/plaʊ/",
+    "us_sp": "/plaʊ/"
+  },
+  {
+    "ina": "trem listrik",
+    "uk": "tram",
+    "us": "streetcar",
+    "uk_sp": "/træm/",
+    "us_sp": "/ˈstriːt.kɑːr/"
+  },
+  {
+    "ina": "troli",
+    "uk": "trolley",
+    "us": "shopping chart",
+    "uk_sp": "/ˈtrɒl.i/",
+    "us_sp": "/ˈʃɑː.pɪŋ ˌkɑːrt/"
+  },
+  {
+    "ina": "trotoar",
+    "uk": "pavement",
+    "us": "sidewalk",
+    "uk_sp": "/ˈpeɪv.mənt/",
+    "us_sp": "/ˈsaɪd.wɑːk/"
+  },
+  {
+    "ina": "tukang pos",
+    "uk": "postman",
+    "us": "mailman",
+    "uk_sp": "/ˈpəʊst.mən/",
+    "us_sp": "/ˈmeɪl.mæn/"
+  },
+  {
+    "ina": "tukang sampah",
+    "uk": "dustman",
+    "us": "garbage man",
+    "uk_sp": "/ˈdʌst.mən/",
+    "us_sp": "/ˈɡɑːr.bɪdʒ ˌmæn/"
+  },
+  {
+    "ina": "toilet",
+    "uk": "toilet",
+    "us": "restroom",
+    "uk_sp": "/ˈtɔɪ.lət/",
+    "us_sp": "/ˈrest.rʊm/"
+  },
+  {
+    "ina": "toko obat (apotek)",
+    "uk": "chemist",
+    "us": "drugstore",
+    "uk_sp": "/ˈkem.ɪst/",
+    "us_sp": "/ˈdrʌɡ.stɔːr/"
+  },
+  {
+    "ina": "toko besi",
+    "uk": "ironmongers",
+    "us": "hardware store",
+    "uk_sp": "/ˈaɪənˌmʌŋ.ɡər/",
+    "us_sp": "/ˈhɑːrd.wer/  /stɔːr/"
+  },
+  {
+    "ina": "toko",
+    "uk": "shop",
+    "us": "store",
+    "uk_sp": " /ʃɒp/",
+    "us_sp": " /stɔːr/"
+  },
+  {
+    "ina": "transportasi",
+    "uk": "transport",
+    "us": "transportation",
+    "uk_sp": " /ˈtræn.spɔːt/",
+    "us_sp": "/ˌtræn.spɚˈteɪ.ʃən/"
+  },
+  {
+    "ina": "uang saku",
+    "uk": "pocket money",
+    "us": "allowance",
+    "uk_sp": " /ˈpɒk.ɪt ˌmʌn.i/",
+    "us_sp": "/əˈlaʊ.əns/"
+  },
+  {
+    "ina": "ubi merah",
+    "uk": "beetroot",
+    "us": "beet",
+    "uk_sp": "/ˈbiːt.ruːt/",
+    "us_sp": "/biːt/"
+  },
+  {
+    "ina": "udang besar",
+    "uk": "prawn",
+    "us": "shrimp",
+    "uk_sp": "/prɔːn/",
+    "us_sp": "/ʃrɪmp/"
+  },
+  {
+    "ina": "universitas",
+    "uk": "university",
+    "us": "college",
+    "uk_sp": "/ˌjuː.nɪˈvɜː.sə.ti/",
+    "us_sp": " /ˈkɑː.lɪdʒ/"
+  },
+  {
+    "ina": "orang gila",
+    "uk": "nutter",
+    "us": "crazy ",
+    "uk_sp": "/ˈnʌt.ər/ ",
+    "us_sp": "/ˈkreɪ.zi/"
+  },
+  {
+    "ina": "organisasi",
+    "uk": "organisation",
+    "us": "organization",
+    "uk_sp": "/ˌɔː.ɡən.aɪˈzeɪ.ʃən/",
+    "us_sp": "/ˌɔːr.ɡən.əˈzeɪ.ʃən/"
+  },
+  {
+    "ina": "waktu istirahat (Cuma sejenak)",
+    "uk": "play Time ",
+    "us": "recess",
+    "uk_sp": "/ˈpleɪ.taɪm/",
+    "us_sp": "/rɪˈses/"
+  },
+  {
+    "ina": "warna",
+    "uk": "colour",
+    "us": "color",
+    "uk_sp": "/ˈkʌl.ər/",
+    "us_sp": "/ˈkʌl.ɚ/"
+  }
+]

@@ -1,0 +1,36 @@
+/* Breakpoint untuk smartphone (lebar layar kurang dari 576px, seperti iPhone) */
+
+@media (max-width: 575.98px) {
+  body {
+    padding: 0;
+  }
+  .content {
+    min-height: 620px;
+    max-height: 620px;
+  }
+
+  .content ul {
+    list-style: none;
+    margin: 1rem 3rem 0 1rem;
+  }
+}
+
+/* Breakpoint untuk iPad (lebar layar antara 577px dan 991px) */
+@media (min-width: 576px) and (max-width: 991.98px) {
+  body {
+    padding: 0;
+  }
+  .content {
+    min-height: 800px;
+    max-height: 800px;
+  }
+
+  .content ul {
+    list-style: none;
+    margin: 1rem 3rem 0 1rem;
+  }
+}
+
+/* Breakpoint untuk PC (lebar layar 992px atau lebih) */
+@media (min-width: 992px) {
+}
