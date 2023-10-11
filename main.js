@@ -27,7 +27,6 @@ getData();
 function searchData() {
   const searchValue = search.value.toLowerCase();
   const itemList = content.getElementsByTagName("li");
-  console.log(itemList.length);
 
   console.log();
   let kataDitemukan = false;
