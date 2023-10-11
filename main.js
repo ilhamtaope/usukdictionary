@@ -13,8 +13,8 @@ async function getData() {
       content.innerHTML += `
       <li>
      <span>${element.ina}</span> <br> 
-     <img src="/assets/images/ic_uk_small.png" alt="UK Flag">  ${element.uk} ${element.uk_sp} <br> 
-     <img src="/assets/images/ic_us_small.png" alt="US Flag"> ${element.us} ${element.us_sp}
+     <img src="ic_uk_small.png" alt="UK Flag">  ${element.uk} ${element.uk_sp} <br> 
+     <img src="ic_us_small.png" alt="US Flag"> ${element.us} ${element.us_sp}
       </li>`;
     });
   } catch (error) {

@@ -9,7 +9,7 @@
 body {
   font-family: "Poppins", Arial, sans-serif;
   padding: 0 30%;
-  background: url(/assets/images/Hero.png);
+  background: url(Hero.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
