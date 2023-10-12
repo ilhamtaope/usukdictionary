@@ -3,7 +3,7 @@ const search = document.getElementById("search");
 
 async function getData() {
   try {
-    const response = await fetch("data.json");
+    const response = await fetch("/utils/data.json");
     if (!response.ok) {
       throw new Error("Fetch error");
     }
@@ -13,8 +13,8 @@ async function getData() {
       content.innerHTML += `
       <li>
      <span>${element.ina}</span> <br> 
-     <img src="ic_uk_small.png" alt="UK Flag">  ${element.uk} ${element.uk_sp} <br> 
-     <img src="ic_us_small.png" alt="US Flag"> ${element.us} ${element.us_sp}
+     <img src="/assets/ic_uk_small.png" alt="UK Flag">  ${element.uk} ${element.uk_sp} <br> 
+     <img src="/assets/ic_us_small.png" alt="US Flag"> ${element.us} ${element.us_sp}
       </li>`;
     });
   } catch (error) {
