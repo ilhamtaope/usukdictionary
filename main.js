@@ -3,7 +3,7 @@ const search = document.getElementById("search");
 
 async function getData() {
   try {
-    const response = await fetch("/utils/data.json");
+    const response = await fetch("utils/data.json");
     if (!response.ok) {
       throw new Error("Fetch error");
     }
